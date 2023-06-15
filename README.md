@@ -9,4 +9,9 @@ Methods of pulling  data from various blockchains
 ## VeChain
 ### Methodology:
 
-Uses vechain explorer API to pull transaction data of a given wallet and then reconciles that data
+Uses veChain explorer API to pull transaction data of a given wallet and then reconciles that data
+
+## Tezos
+### Methodology:
+
+Uses Tezos explorer API to pull transaction data of a given wallet and then reconciles that data
