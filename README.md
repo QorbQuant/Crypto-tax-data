@@ -15,3 +15,8 @@ Uses veChain explorer API to pull transaction data of a given wallet and then re
 ### Methodology:
 
 Uses Tezos explorer API to pull transaction data of a given wallet and then reconciles that data
+
+## Stellar
+### Methodology:
+
+Uses Stellar explorer SDK to pull transaction data of a given wallet and then reconciles that data
