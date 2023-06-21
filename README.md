@@ -20,3 +20,8 @@ Uses Tezos explorer API to pull transaction data of a given wallet and then reco
 ### Methodology:
 
 Uses Stellar explorer SDK to pull transaction data of a given wallet and then reconciles that data
+
+## Binance 
+### BEP-2
+
+Uses API to pull data, then downloads to csv
